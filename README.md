@@ -38,10 +38,10 @@ The Gradio app component allows users to interact with the churn rate classifica
 ## Conclusion
 By developing a churn rate classification app with Gradio, we have provided businesses with a powerful tool to identify factors contributing to customer churn. The app collects user inputs, processes them using the trained model, and delivers churn rate predictions promptly. With this information, organizations can strategize their retention initiatives effectively, ultimately improving customer satisfaction and business performance.
 We encourage businesses to leverage the power of the developed app to gain insights into their customer churn patterns and implement targeted retention strategies. By continuously updating and refining the model based on evolving sales patterns, businesses can optimize their retention efforts and ensure long-term success.
-##Appreciation
+## Appreciation
 We would like to express our appreciation to Azubi Africa for their comprehensive and effective programs, which have significantly contributed to the development of this project.
-Author
-##Chris Wachira
+## Author
+Chris Wachira
 Thank you for reading this article, and we hope it provides valuable insights into developing a churn rate classification app using Gradio.
 
 
