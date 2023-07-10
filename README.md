@@ -42,6 +42,7 @@ We encourage businesses to leverage the power of the developed app to gain insig
 We would like to express our appreciation to Azubi Africa for their comprehensive and effective programs, which have significantly contributed to the development of this project.
 ## Author
 Chris Wachira
+##
 Thank you for reading this article, and we hope it provides valuable insights into developing a churn rate classification app using Gradio.
 
 
